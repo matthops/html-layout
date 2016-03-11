@@ -1,0 +1,55 @@
+body, html   {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.header {
+  background: #D8D8D8;
+  height: 10%;
+  width: 100%;
+  padding: 10px;
+}
+
+.box {
+ background: #4A90E2;
+ height: 60px;
+ width: 60px;
+ /*margin: 10% 0 0 10%;*/
+
+}
+
+.words {
+  background:#FFFFFF;
+  height: 20%;
+  width: 100%;
+}
+
+.textBox {
+  padding: 5% 0 0 5%;
+  font-family: sans-serif;
+}
+
+.zebra1 {
+  background: #4A90E2;
+  height: 15%;
+  width: 100%;
+}
+
+.zebra2 {
+  background: #50E3C2;
+  height: 15%;
+  width: 100%;
+}
+
+.zebra3 {
+  background: #B8E986;
+  height: 15%;
+  width: 100%;
+}
+
+.zebra4 {
+  background: #F8E71C;
+  height: 15%;
+  width: 100%;
+}
